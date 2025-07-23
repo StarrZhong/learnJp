@@ -1,0 +1,35 @@
+ruby{
+      text-align: center;
+      font-size: 1.5rem;
+    }
+    rt{
+      width: 100%;
+    }
+    ruby > rt{
+      font-size: 80%;
+    }
+  
+    ruby > rt > ruby{
+      font-size: inherit;
+      color: green;
+      text-align: center;
+
+    }
+    ruby > rt > ruby > rt{
+      font-size: 90%;
+      text-align: center;
+    }
+    rt.en{
+      color: red;
+    }
+    .sentence{
+      white-space: nowrap;
+      display: inline-block;
+      
+    }
+      ruby:has(+ ruby){
+      margin-right: 0.3em;
+    }
+    .sentence:has(+ .sentence){
+      margin-right: 1.5em;
+    }
