@@ -5,6 +5,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'i',
@@ -12,6 +13,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'u',
@@ -19,6 +21,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'e',
@@ -26,6 +29,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'o',
@@ -33,6 +37,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'ka',
@@ -40,6 +45,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'ki',
@@ -47,6 +53,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'ku',
@@ -54,6 +61,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'ke',
@@ -61,6 +69,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'ko',
@@ -68,6 +77,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'sa',
@@ -75,6 +85,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'shi',
@@ -82,6 +93,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'su',
@@ -89,6 +101,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'se',
@@ -96,6 +109,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'so',
@@ -103,6 +117,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'ta',
@@ -110,6 +125,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'chi',
@@ -117,6 +133,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'tsu',
@@ -124,6 +141,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'te',
@@ -131,6 +149,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'to',
@@ -138,6 +157,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'na',
@@ -145,6 +165,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'ni',
@@ -152,6 +173,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'nu',
@@ -159,6 +181,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'ne',
@@ -166,6 +189,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'no',
@@ -173,6 +197,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'ha',
@@ -180,6 +205,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'hi',
@@ -187,6 +213,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'fu',
@@ -194,6 +221,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'he',
@@ -201,6 +229,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'ho',
@@ -208,6 +237,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'ma',
@@ -215,6 +245,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'mi',
@@ -222,6 +253,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'mu',
@@ -229,6 +261,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'me',
@@ -236,6 +269,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'mo',
@@ -243,6 +277,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'ya',
@@ -250,6 +285,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'yu',
@@ -257,6 +293,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'yo',
@@ -264,6 +301,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'ra',
@@ -271,6 +309,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'ri',
@@ -278,6 +317,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'ru',
@@ -285,6 +325,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 're',
@@ -292,6 +333,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'ro',
@@ -299,6 +341,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'wa',
@@ -306,6 +349,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'wi',
@@ -313,6 +357,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'we',
@@ -320,6 +365,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'wo',
@@ -327,6 +373,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'n',
@@ -334,6 +381,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'ga',
@@ -341,6 +389,7 @@ const gojuonSheet = [
     dakuon: true,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'gi',
@@ -348,6 +397,7 @@ const gojuonSheet = [
     dakuon: true,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'ge',
@@ -355,6 +405,7 @@ const gojuonSheet = [
     dakuon: true,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'go',
@@ -362,6 +413,7 @@ const gojuonSheet = [
     dakuon: true,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'za',
@@ -369,6 +421,7 @@ const gojuonSheet = [
     dakuon: true,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'ji',
@@ -376,6 +429,7 @@ const gojuonSheet = [
     dakuon: true,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'zu',
@@ -383,6 +437,7 @@ const gojuonSheet = [
     dakuon: true,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'ze',
@@ -390,6 +445,7 @@ const gojuonSheet = [
     dakuon: true,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'zo',
@@ -397,6 +453,7 @@ const gojuonSheet = [
     dakuon: true,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'da',
@@ -404,6 +461,7 @@ const gojuonSheet = [
     dakuon: true,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical:"di",
@@ -411,6 +469,7 @@ const gojuonSheet = [
     dakuon: true,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical:'du',
@@ -418,6 +477,7 @@ const gojuonSheet = [
     dakuon: true,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical:'de',
@@ -425,13 +485,15 @@ const gojuonSheet = [
     dakuon: true,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical:'do',
-    text:[',ど','ド'],
+    text:['ど','ド'],
     dakuon: true,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical:'ba',
@@ -439,6 +501,7 @@ const gojuonSheet = [
     dakuon: true,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical:'bi',
@@ -446,6 +509,7 @@ const gojuonSheet = [
     dakuon: true,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical:'bu',
@@ -453,6 +517,7 @@ const gojuonSheet = [
     dakuon: true,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical:'be',
@@ -460,6 +525,7 @@ const gojuonSheet = [
     dakuon: true,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical:'bo',
@@ -467,6 +533,7 @@ const gojuonSheet = [
     dakuon: true,
     handak: false,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'pa',
@@ -474,6 +541,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: true,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'pi',
@@ -481,6 +549,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: true,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'pu',
@@ -488,6 +557,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: true,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'pe',
@@ -495,6 +565,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: true,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'po',
@@ -502,6 +573,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: true,
     youon: false,
+    sokuon: false
   },
   {
     alphabetical: 'kya',
@@ -509,6 +581,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'kyu',
@@ -516,6 +589,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'kyo',
@@ -523,6 +597,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'gya',
@@ -530,6 +605,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'gyu',
@@ -537,6 +613,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'gyo',
@@ -544,6 +621,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'sya',
@@ -551,6 +629,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'syu',
@@ -558,6 +637,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'syo',
@@ -565,6 +645,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'ja',
@@ -572,6 +653,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'ju',
@@ -579,6 +661,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'jo',
@@ -586,6 +669,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'cha',
@@ -593,6 +677,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'chu',
@@ -600,6 +685,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'cho',
@@ -607,6 +693,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'dya',
@@ -614,6 +701,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'dyu',
@@ -621,6 +709,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'dyo',
@@ -628,6 +717,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'nya',
@@ -635,6 +725,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'nyu',
@@ -642,6 +733,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'nyo',
@@ -649,6 +741,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'hya',
@@ -656,6 +749,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'hyu',
@@ -663,6 +757,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'hyo',
@@ -670,6 +765,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'bya',
@@ -677,6 +773,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'byu',
@@ -684,6 +781,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'byo',
@@ -691,6 +789,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'pya',
@@ -698,6 +797,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'pyu',
@@ -705,6 +805,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'pyo',
@@ -712,6 +813,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'mya',
@@ -719,6 +821,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'myu',
@@ -726,6 +829,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'myo',
@@ -733,6 +837,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'rya',
@@ -740,6 +845,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'ryu',
@@ -747,6 +853,7 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
   {
     alphabetical: 'ryo',
@@ -754,15 +861,85 @@ const gojuonSheet = [
     dakuon: false,
     handak: false,
     youon: true,
+    sokuon: false
   },
+  {
+    alphabetical: '',
+    text:['っ','ッ'],
+    dakuon: false,
+    handak: false,
+    youon: true,
+    sokuon: true
+  }
 ]
 
 const gojuonHelper = {
   getGojuonSheet: () => gojuonSheet,
   getYouonSheet: () => gojuonSheet.filter(item => item.youon),
+  transfer: (text) =>{
+    let voices = []
+    
+    for(let i = 0; i < text.length; i++){
+        const char = text.slice(i,i+1);
+        const char2 = text.slice(i,i+2);
+        console.log('i',i)
+        console.log('char',char)
+        console.log('char2',char2)
+        console.log('text',text)
+        let hasYouon = gojuonHelper.getYouonSheet().find(item => item.text.includes(char2));
+        sokuon: false
+        if(hasYouon){
+            sokuon: false
+            voices.push(
+                {
+                    alphabetical: hasYouon.alphabetical,
+                    text: char2,
+                }
+            );
+            i = i + 2;
+            
+        } else {
+            
+            console.log()
+            const found = gojuonSheet.find(item => {
+                console.log(`check:  ${item.text} === ${char}`)
+                console.log(item.text.includes(char))
+                return item.text.includes(char)
+            })
+            console.log(found)
+            if (found) {
+                if(found.sokuon){
+                    voices.push(
+                        {
+                            alphabetical: voices[i-1].alphabetical.slice(-1),
+                            sokuon: true,
+                            text: char,
+                        }
+                    );
+
+                } else{
+                    voices.push(
+                        {
+                            alphabetical: found.alphabetical,
+                            text: char,
+                        }
+                    );
+                }
+            } else {
+                voices.push({
+                    alphabetical: '', // If not found, keep the original character
+                    text: char,
+                }); // If not found, keep the original character
+            }
+            
+        }
+    }
+    
+    return voices
+  }
 }
 
 
-
+export default gojuonHelper
 
 
